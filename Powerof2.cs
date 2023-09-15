@@ -1,5 +1,4 @@
-﻿using System;
-
+using System;
 class Powerof2
 {
    public static void PowerOf2()
