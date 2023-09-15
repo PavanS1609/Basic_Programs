@@ -1,5 +1,4 @@
-﻿using System;
-
+using System;
 class QuoAndRem
 {
     public static void Quo_Rem()
