@@ -1,5 +1,4 @@
-﻿using System;
-
+using System;
 class Harmonic
 {
    public static void harmonic()
@@ -22,4 +21,3 @@ class Harmonic
         }
     }
 }
-
