@@ -1,5 +1,4 @@
-﻿using System;
-
+using system;
 class EvenOrOdd
 {
     public static void Even_Odd()
