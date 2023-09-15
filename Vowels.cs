@@ -1,6 +1,4 @@
-﻿using System;
-
-
+using System;
 public class Vowel
 {
    public static void Vowels()
