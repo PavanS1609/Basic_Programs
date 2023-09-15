@@ -1,4 +1,5 @@
-﻿using System;
+using System;
+
 class FlipCoin
 {
     public static void Toss()
